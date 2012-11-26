@@ -1,0 +1,4 @@
+jp:Yolu,Youlu,YCard
+kr:Yolu,Youlu,YCard
+cn:Yolu,Youlu,YCard
+tw:Yolu,Youlu,YCard
